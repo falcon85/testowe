@@ -15,3 +15,5 @@ git describe --tags
 git log <- show commits log
 
 git show rel_11
+
+git checkout
