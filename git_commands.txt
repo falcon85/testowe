@@ -10,4 +10,6 @@ wy³¹czenie œledzenia zmian:
 touch .gitignore
 dodaæ œcie¿ki do plikó/folderów
 
+git describe --tags
+
 
