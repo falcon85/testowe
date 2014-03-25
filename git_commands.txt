@@ -1,4 +1,9 @@
 git commit -m 'nazwa commitu'
 git tag rel_0xxx <- tag
 git push --tags
-lub git push origin tag 7.x-1.0 <-ten tylko
+lub 
+git push origin tag 7.x-1.0 <-ten tylko
+
+
+git rm --cached file.name <- usuniecie z repozytorium
+
