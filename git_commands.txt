@@ -4,6 +4,10 @@ git push --tags
 lub 
 git push origin tag 7.x-1.0 <-ten tylko
 
+git rm --cached file.name <- usuniecie z repozytorium 
 
-git rm --cached file.name <- usuniecie z repozytorium
+wy³¹czenie œledzenia zmian:
+touch .gitignore
+dodaæ œcie¿ki do plikó/folderów
+
 
