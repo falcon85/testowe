@@ -12,4 +12,6 @@ dodaæ œcie¿ki do plikó/folderów
 
 git describe --tags
 
+git log <- show commits log
 
+git show rel_11
